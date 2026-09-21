@@ -5,9 +5,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Tema 1 |  Descripcion  |
 |-------:|---------------|
-| [Welcome.java](Welcome.java) |               |
-|     2                        |               |
-|     3                        |               |
+| Ejercicio 1 |  [Welcome.java](Welcome.java)  |
+| Ejercicio 2 |                                |
+| Ejercicio 3 |                                |
 
 
 
