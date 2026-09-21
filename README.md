@@ -5,8 +5,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Tema 1 |  Descripcion  |
 |-------:|---------------|
-| Ejercicio 1:[Welcome.java](/tema1/Welcome.java) |  Primer programa de java. Muestra un mensaje de bienvenida  |
-| Ejercicio 2:[SalidaFormateada.java](tema1/SalidaFormateada.java) |                                                             |                                                              
+| Ejercicio 1: [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
+| Ejercicio 2: [SalidaFormateada.java](tema1/SalidaFormateada.java) |                                                             |                                                              
 | Ejercicio 3 |                                                             |
 
 
