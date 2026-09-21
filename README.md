@@ -2,7 +2,7 @@
 Este repositorio incluye actividades llevadas a cabo en el módulo de programación
 
 ## Tema 1 - Nombre tema 0
-|-------- - -------------|
+| --------- -            |
 | Ejercicio 1            | Breve descripicion |
 | Ejercicio 2            | Breve descripcion  |
 
