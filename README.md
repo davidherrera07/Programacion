@@ -13,4 +13,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [MiHorario.java](tema1/MiHorario.java) | Sexto programa en java. Escribe un programa que muestre tu horario de clase ||
 
 
+## Tema 2 - PROGRAMACIÓN ELEMENTAL 📖 
 
+| Ejercicios |  Descripcion  |
+|-----------:|---------------|
+| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Primer programa de java. Muestra un mensaje de bienvenida |
