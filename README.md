@@ -17,4 +17,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicios |  Descripcion  |
 |-----------:|---------------|
-| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Primer programa de java. Muestra un mensaje de bienvenida |
+| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
