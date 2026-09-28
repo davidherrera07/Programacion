@@ -19,3 +19,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 |-----------:|---------------|
 | [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
 | [ConversionTemperaturas.java](/tema2/ConversionTemperaturas.java) | Crea un programa capaz de darte los grados farenheit convertidos en celsius |
+| [FarenheitaCelsius.java](/tema2/FarenheitaCelsius.java) | Crea un programa capaz de darte los grados celsius convertidos en farenheit |
+
+
