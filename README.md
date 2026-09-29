@@ -20,7 +20,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Séptimo programa en java. Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
 | [ConversionTemperaturas.java](/tema2/ConversionTemperaturas.java) | Octavo programa en java. Crea un programa capaz de darte los grados Fahrenheit convertidos en Celsius |
 | [FarenheitaCelsius.java](/tema2/FareheitaCelsius.java) | Noveno programa en java. Crea un programa capaz de darte los grados Celsius convertidos en Fahrenheit |
-| [SalarioSemanal.java](/tema2/SalarioSemanal.java) | Decimo programa en java. Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora. |
+| [SalarioSemanal.java](/tema2/SalarioSemanal.java) | Decimo programa en java. Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora |
 | [VolumenCono.java](/tema2/VolumenCono.java) | Undécimo programa en java. Escribe un programa que calcule el volumen de un cono |
+| [MbKb.java](/tema2/MbKb.java) | Duodécimo programa en java. Escribe un programa que calcule la conversión de megabyte a kilobyte |
 
 
