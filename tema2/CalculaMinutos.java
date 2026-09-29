@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CalculaMinutos {
 
-    public static void main(Strings[]args) {
+    public static void main(String[]args) {
         int segundos;
         int minutos;
         int segundosRestantes;
