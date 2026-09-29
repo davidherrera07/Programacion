@@ -1,9 +1,9 @@
-# Programacion :shipit:
+# Programación :shipit:
 Este repositorio incluye actividades llevadas a cabo en el módulo de programación
 
 ## Tema 1 - INTRODUCCIÓN 📖 
 
-| Ejercicios |  Descripcion  |
+| Ejercicios |  Descripción  |
 |-----------:|---------------|
 | [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
 | [SalidaFormateada.java](tema1/SalidaFormateada.java) | Copia el siguiente código, compila y pruébalo |                                                              
@@ -15,7 +15,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 ## Tema 2 - PROGRAMACIÓN ELEMENTAL 💻 
 
-| Ejercicios |  Descripcion  |
+| Ejercicios |  Descripción  |
 |-----------:|---------------|
 | [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
 | [ConversionTemperaturas.java](/tema2/ConversionTemperaturas.java) | Crea un programa capaz de darte los grados Fahrenheit convertidos en Celsius |
