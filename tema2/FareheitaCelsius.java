@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FarenheitaCelsius { 
 
-    public static void main(Strings[]args) {
+    public static void main(String[]args) {
 
         double farenheit = 0.0;
         double celsius = 0.0;
