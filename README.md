@@ -6,22 +6,23 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | Ejercicios |  Descripcion  |
 |-----------:|---------------|
 | [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
-| [SalidaFormateada.java](tema1/SalidaFormateada.java) | Segundo programa en java. Copia el siguiente código, compila y pruébalo |                                                              
-| [MiNombre.java](tema1/MiNombre.java) | Tercer programa en java. Escribe un programa que muestre tu nombre por pantalla |
-| [MisDatos.java](tema1/MisDatos.java) | Cuarto programa en java. Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono |
-| [Traducciones.java](tema1/Traducciones.java) | Quinto programa en java. Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente traducción al castellano |
-| [MiHorario.java](tema1/MiHorario.java) | Sexto programa en java. Escribe un programa que muestre tu horario de clase ||
+| [SalidaFormateada.java](tema1/SalidaFormateada.java) | Copia el siguiente código, compila y pruébalo |                                                              
+| [MiNombre.java](tema1/MiNombre.java) | Escribe un programa que muestre tu nombre por pantalla |
+| [MisDatos.java](tema1/MisDatos.java) | Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono |
+| [Traducciones.java](tema1/Traducciones.java) | Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente traducción al castellano |
+| [MiHorario.java](tema1/MiHorario.java) | Escribe un programa que muestre tu horario de clase ||
 
 
 ## Tema 2 - PROGRAMACIÓN ELEMENTAL 📖 
 
 | Ejercicios |  Descripcion  |
 |-----------:|---------------|
-| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Séptimo programa en java. Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
-| [ConversionTemperaturas.java](/tema2/ConversionTemperaturas.java) | Octavo programa en java. Crea un programa capaz de darte los grados Fahrenheit convertidos en Celsius |
-| [FarenheitaCelsius.java](/tema2/FareheitaCelsius.java) | Noveno programa en java. Crea un programa capaz de darte los grados Celsius convertidos en Fahrenheit |
-| [SalarioSemanal.java](/tema2/SalarioSemanal.java) | Decimo programa en java. Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora |
-| [VolumenCono.java](/tema2/VolumenCono.java) | Undécimo programa en java. Escribe un programa que calcule el volumen de un cono |
-| [MbKb.java](/tema2/MbKb.java) | Duodécimo programa en java. Escribe un programa que calcule la conversión de megabyte a kilobyte |
+| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
+| [ConversionTemperaturas.java](/tema2/ConversionTemperaturas.java) | Crea un programa capaz de darte los grados Fahrenheit convertidos en Celsius |
+| [FarenheitaCelsius.java](/tema2/FareheitaCelsius.java) | Crea un programa capaz de darte los grados Celsius convertidos en Fahrenheit |
+| [SalarioSemanal.java](/tema2/SalarioSemanal.java) | Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora |
+| [VolumenCono.java](/tema2/VolumenCono.java) | Escribe un programa que calcule el volumen de un cono |
+| [MbKb.java](/tema2/MbKb.java) | Escribe un programa que calcule la conversión de megabyte a kilobyte |
+| [KbMb.java](/tema2/KbMb.java) | Escribe un programa que calcule la conversión de kilobyte a megabyte |
 
 
