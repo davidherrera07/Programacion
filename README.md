@@ -25,5 +25,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [MbKb.java](/tema2/MbKb.java) | Escribe un programa que calcule la conversión de megabyte a kilobyte |
 | [KbMb.java](/tema2/KbMb.java) | Escribe un programa que calcule la conversión de kilobyte a megabyte |
 | [NumerosAleatorios.java](/tema2/NumerosAleatorios.java) | Escribe un programa que calcule dos números aleatorios y los sumen |
+| [EvaluaExpresiones.java](/tema2/EvaluaExpresiones.java) | Escribe un programa que calcule las siguientes expresiones |
 
 
