@@ -32,6 +32,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicios |  Descripción  |
 |-----------:|---------------|
-| [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Crea un programa capaz de darte los minutos y los segundos restantes a partir de los segundos que le pidas |
+| [MayorEdad.java](/tema2/MayorEdad.java) | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad) |
 
 
