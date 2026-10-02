@@ -32,6 +32,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 | Ejercicios |  Descripción  |
 |-----------:|---------------|
-| [MayorEdad.java](/tema2/MayorEdad.java) | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad) |
+| [MayorEdad.java](/tema3/MayorEdad.java) | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad) |
 
 
