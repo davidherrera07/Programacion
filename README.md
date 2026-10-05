@@ -35,5 +35,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [MayorEdad.java](/tema3/MayorEdad.java) | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad) |
 | [NumeroMayor.java](/tema3/NumeroMayor.java) | Realiza un programa que acepte dos números desde teclado e indique cual de los números es mayor |
 | [NumeroMenor.java](/tema3/NumeroMenor.java) | Realiza un programa que acepte tres números desde teclado e indique cual de los números es menor |
+| [Divisible.java](/tema3/Divisible.java) | Realiza un programa que verifica si un número es divisible por 2 y 3, si un número es divisible por 2 o 3, y si un número es divisible por 2 o 3 pero no por ambos |
 
 
