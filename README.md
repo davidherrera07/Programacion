@@ -33,7 +33,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | Ejercicios |  Descripción  |
 |-----------:|---------------|
 | [MayorEdad.java](/tema3/MayorEdad.java) | Realiza un programa que indique si el usuario es mayor de edad o no. (El usuario debe indicar su edad) |
-| [Numeromayor.java](/tema3/NumeroMayor.java) | Realiza un programa que acepte dos números desde teclado e indique cual de los números es mayor |
+| [NumeroMayor.java](/tema3/NumeroMayor.java) | Realiza un programa que acepte dos números desde teclado e indique cual de los números es mayor |
 | [NumeroMenor.java](/tema3/NumeroMenor.java) | Realiza un programa que acepte tres números desde teclado e indique cual de los números es menor |
 
 
