@@ -39,5 +39,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [NumeroMenor.java](/tema3/NumeroMenor.java) | Realiza un programa que acepte tres números desde teclado e indique cual de los números es menor |
 | [Divisible.java](/tema3/Divisible.java) | Realiza un programa que verifica si un número es divisible por 2 y 3, si un número es divisible por 2 o 3, y si un número es divisible por 2 o 3 pero no por ambos |
 | [AñoBisiesto.java](/tema3/AñoBisiesto.java) | Realiza un programa que indique si el año que insertas es bisiesto o no |
+| [PrimeraHora.java](/tema3/PrimeraHora.java) | Realiza un programa que indique la asignatura que hay la primera hora del día que se introduzca |
 
 
