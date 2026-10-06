@@ -26,6 +26,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [KbMb.java](/tema2/KbMb.java) | Escribe un programa que calcule la conversión de kilobyte a megabyte |
 | [NumerosAleatorios.java](/tema2/NumerosAleatorios.java) | Escribe un programa que calcule dos números aleatorios y los sumen |
 | [EvaluaExpresiones.java](/tema2/EvaluaExpresiones.java) | Escribe un programa que calcule las siguientes expresiones |
+| [SumaAleatoria.java](/tema2/SumaAleatoria.java) | Escribe un programa en el que te haga una suma aleatoria y el usuario tenga que responder e indique si esta correcto o incorrecto el resultado |
+
 
 
 ## Tema 3 - SELECCIONES ✔️❎ 
