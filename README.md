@@ -52,6 +52,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | Ejercicios |  Descripción  |
 |-----------:|---------------|
 | [BarajaFrancesa.java](/tema4/BarajaFrancesa.java) | Realiza un programa que muestre al azar el nombre de una carta de la baraja francesa |
+| [Quiniela.java](/tema4/Quiniela.java) | Realiza un programa para rellenar una quiniela al azar |
 
 
 
