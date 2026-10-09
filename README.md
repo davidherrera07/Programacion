@@ -43,6 +43,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [HoraDia.java](/tema3/HoraDia.java) | Realiza un programa que muestre un saludo según la hora del día |
 | [Horoscopo.java](/tema3/Horoscopo.java) | Realiza un programa que nos diga el horóscopo a partir del día y el mes de nacimiento. |
 | [NumeroCapicua.java](/tema3/NumeroCapicua.java) | Realiza un programa que nos diga el horóscopo a partir del día y el mes de nacimiento. |
+| [Notas.java](/tema3/Notas.java) | Realiza un programa que calcule la nota de un trimestre de la asignatura Programación |
 
 
 
