@@ -47,4 +47,14 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 
 
+## Tema 3 - Métodos matemáticos, caracteres y cadenas ➕➖
+
+| Ejercicios |  Descripción  |
+|-----------:|---------------|
+| [BarajaFrancesa.java](/tema3/BarajaFrancesa.java) | Realiza un programa que muestre al azar el nombre de una carta de la baraja francesa |
+
+
+
+
+
 
