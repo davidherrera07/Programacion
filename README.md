@@ -47,7 +47,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 
 
-## Tema 3 - Métodos matemáticos, caracteres y cadenas ➕➖
+## Tema 4 - Métodos matemáticos, caracteres y cadenas ➕➖
 
 | Ejercicios |  Descripción  |
 |-----------:|---------------|
