@@ -58,7 +58,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [MitadCadena.java](/tema4/MitadCadena.java) | Realiza un programa que inserte “<>” justo en la mitad de una cadena de caracteres desde teclado |
 | [DividirPalabra.java](/tema4/DividirPalabra.java) | Realiza un programa que divida una palabra desde la primera A que encuentre |
 | [Notas.java](/tema4/Notas.java) | Realiza un programa que introduce 5 notas desde teclado y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja, la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo|
-
+| [ValidarNumero.java](/tema4/ValidarNumero.java) | Escribe un programa que lea un número por teclado con un mínimo de 2 dígitos y un máximo de 7 |
 
  
 
