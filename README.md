@@ -76,6 +76,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [ContarCifras.java](/tema5/ContarCifras.java) | Escribe un programa que pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto |
 | [RectanguloAsteriscos.java](/tema5/RectanguloAsteriscos.java) | Escribe un programa que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
 | [MatrizNumeros.java](/tema5/MatrizNumericos.java) | Escribe un programa que pide el número de filas y columnas y muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna |
+| [ContarVocales.java](/tema5/ContarVocales.java) | Algoritmo que lea los caracteres de una cadena de caracteres y nos muestre el número de caracteres leídos que son vocales |
+
 
 
 
