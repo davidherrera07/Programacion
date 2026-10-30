@@ -73,6 +73,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [EscaleraNumero.java](/tema5/EscaleraNumero.java) | Escribe un programa que imprima esta escalera de números (bucles anidados) |
 | [NumerosPrimos.java](/tema5/NumerosPrimos.java) | Escribe un programa que imprima todos los números primos del 1 al 50, cada uno en su línea |
 | [SumaNumeros.java](/tema5/SumaNumeros.java) | Escribe un programa que sume números enteros introducidos por el usuario hasta que escriba 0. Muestra la suma final |
+| [ContarCifras.java](/tema5/ContarCifras.java) | Escribe un programa que pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto |
+| [RectanguloAsteriscos.java](/tema5/RectanguloAsteriscos.java) | Escribe un programa que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
 
 
 
