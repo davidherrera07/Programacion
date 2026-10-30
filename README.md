@@ -75,6 +75,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [SumaNumeros.java](/tema5/SumaNumeros.java) | Escribe un programa que sume números enteros introducidos por el usuario hasta que escriba 0. Muestra la suma final |
 | [ContarCifras.java](/tema5/ContarCifras.java) | Escribe un programa que pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto |
 | [RectanguloAsteriscos.java](/tema5/RectanguloAsteriscos.java) | Escribe un programa que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos |
+| [MatrizNumeros.java](/tema5/MatrizNumericos.java) | Escribe un programa que pide el número de filas y columnas y muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna |
 
 
 
