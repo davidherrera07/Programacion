@@ -80,6 +80,17 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 
 
 
+## Tema 6 - MÉTODOS 🖱️
+
+| Ejercicios |  Descripción  |
+|-----------:|---------------|
+| [BibliotecaMatematica.java](/tema6/BibliotecaMatematica.java) | Crea una biblioteca de funciones matemáticas que contenga los siguientes métodos |
+| [Maximo.java](/tema6/Maximo.java) | Diseñar una función que tenga como parámetros dos números, y que calcule el máximo |
+| [Maximo3.java](/tema6/Maximo3.java) | Ídem una versión que calcule el máximo de 3 números |
+| [VolumenCilindro.java](/tema6/VolumenCilindro.java) | Realizar una función que calcule (muestre en pantalla) volumen de un cilindro. Además hemos de pasarle a la función el radio y la altura |
+| [DivisoresPrimos.java](/tema6/DivisoresPrimos.java) | Módulo al que se le pasa un número entero y devuelve el número de divisores primos que tiene |
+| [NumerosAmigos.java](/tema6/NumerosAmigos.java) | Escriba una función que decida si dos números enteros positivos son amigos. Dos números son amigos, si la suma de sus divisores (distintos de ellos mismos) son iguales |
+
 
 
 
